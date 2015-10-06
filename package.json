@@ -1,0 +1,16 @@
+{
+  "name": "hsa-nodejs-ws1516-workshop",
+  "version": "1.0.0",
+  "description": "Workshops for the Node.js course at HSA",
+  "main": "index.js",
+  "dependencies": {
+    "learnyounode": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "learnyounode": "learnyounode",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Jaser <michael.jaser@peerigon.com>",
+  "license": "Unlicense"
+}
