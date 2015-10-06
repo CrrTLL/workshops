@@ -12,3 +12,5 @@
 
 ### [HelloWorld](workshops/HelloWorld.md) Hello World Übung
 
+### [Workshopper](http://nodeschool.io/#workshoppers) z.B. javascripting, git-it (optional) 
+
