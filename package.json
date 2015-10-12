@@ -4,7 +4,9 @@
   "description": "Workshops for the Node.js course at HSA",
   "main": "index.js",
   "dependencies": {
-    "learnyounode": "^2.7.1"
+    "chai": "^3.3.0",
+    "learnyounode": "^2.7.1",
+    "mocha": "^2.3.3"
   },
   "devDependencies": {},
   "scripts": {
