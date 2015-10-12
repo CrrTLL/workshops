@@ -1,16 +1,18 @@
 # Workshops
 
-## 06.10.2015
+## 1 Einführung 06.10.2015
 
-### [Vagrant](workshops/Vagrant.md) (optional)
+### [Vagrant](1-einfuehrung/Vagrant.md) (optional)
 
-### [Node.js](workshops/Nodejs.md) installieren
+### [Node.js](1-einfuehrung/Nodejs.md) installieren
 
-### [Git](workshops/Git.md) einrichten
+### [Git](1-einfuehrung/Git.md) einrichten
 
-### [GitHub](workshops/GitHub.md) Account erstellen
+### [GitHub](1-einfuehrung/GitHub.md) Account erstellen
 
-### [HelloWorld](workshops/HelloWorld.md) Hello World Übung
+### [HelloWorld](1-einfuehrung/HelloWorld.md) Hello World Übung
 
-### [Workshopper](http://nodeschool.io/#workshoppers) z.B. javascripting, git-it (optional) 
+### [Workshopper](http://nodeschool.io/#workshoppers) z.B. javascripting, git-it (optional)
+
+## 2 Basics 13.10.2015
 
