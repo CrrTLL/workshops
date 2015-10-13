@@ -7,3 +7,5 @@
 ### [Types](2-basics/types/index.html)
 
 ### [Functions](2-basics/functions/index.html)
+
+## 3 [Prototypes](3-prototypes/index.html) 13.10.2015
